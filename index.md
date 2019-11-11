@@ -66,6 +66,7 @@ I think it's not an online test that will define who we are.
 I would not take these tests into account to form a team, I know very well that in a team it is important to have complementary profiles but I prefer to identify people without testing but by talking with them for real.
 
 ### Project idea :
+![Image](./van.jpg)
 
 #### Overview:
 
